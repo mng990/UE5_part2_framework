@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Environment/Props/SM_Plains_Castle_Fountain_01.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Environment/Stages/SM_SQUARE.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/InfinityBladeWeapons/Maps/Overview.umap",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Maps/Step4.umap",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Weapon/ABIW_Weapon1.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Blueprint/BP_ABStageGimmick.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Maps/Step5.umap",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/GameData/ABCharacterStatTable.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/AI/BB_ABCharacter.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/AI/BT_ABCharacter.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Maps/Step6.umap",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/UI/WBP_ABHUD.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/UI/WBP_CharacterStat.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Potion/ABIP_SmallPotion.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Potion/ABIP_LargePotion.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Potion/ABIP_MiddlePotion.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Potion/ABIP_ExtraPotion.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Scroll/ABIS_MaxHpScroll.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Scroll/ABIS_AttackScroll.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Scroll/ABIS_AttackSpeedScroll.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Scroll/ABIS_MovementScroll.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Scroll/ABIS_AllScroll.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Weapon/ABIW_Weapon2.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Weapon/ABIW_Weapon3.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/UI/WBP_HpBar.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Scroll/ABIS_ScrollTest.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Potion/ABIP_PotionTest.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Potion/ABIP_SmallPotion_2.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Potion/ABIP_SmallPotion1.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Scroll/ABIS_MaxHpScroll_2.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Scroll/ABIS_AttackScroll_2.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Scroll/ABIS_MovementScroll_2.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Weapon/ABIW_Weapon1_2.uasset",
+				"D:/Course/UE5_part2_framework/ArenaBattle/Content/ArenaBattle/Item/Weapon/ABIW_Weapon1_3.uasset"
+			]
+		}
+	]
+}

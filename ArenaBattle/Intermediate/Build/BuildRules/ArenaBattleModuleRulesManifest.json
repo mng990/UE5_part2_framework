@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Course\\UE5_inflearn\\UE5_part2_framework\\ArenaBattle\\Source\\ArenaBattle\\ArenaBattle.Build.cs",
+		"D:\\Course\\UE5_inflearn\\UE5_part2_framework\\ArenaBattle\\Source\\ArenaBattle.Target.cs",
+		"D:\\Course\\UE5_inflearn\\UE5_part2_framework\\ArenaBattle\\Source\\ArenaBattleEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
